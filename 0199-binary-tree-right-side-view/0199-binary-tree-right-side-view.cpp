@@ -10,19 +10,30 @@
  * };
  */
 class Solution {
-    public:
+public:
     vector<int> rightSideView(TreeNode* root) {
+        if(root == NULL) return {};
+        vector<vector<int>> lvlOrder;
+        queue<TreeNode*> q;
         vector<int> ans;
-        recursion(root,0,ans);
+        q.push(root);
+        while(!q.empty()){
+            int n = q.size();
+            vector<int> lvl;
+            while(n--){
+                TreeNode* node = q.front();
+                q.pop();
+                lvl.push_back(node->val);
+                if(node->right != NULL) q.push(node->right);
+                if(node->left != NULL) q.push(node->left);
+                
+            }
+            lvlOrder.push_back(lvl);
+        }
+        for(int i=0; i<lvlOrder.size(); i++){
+               ans.push_back(lvlOrder[i][0]);
+        }
         return ans;
-    }
-
-    private:
-    void recursion(TreeNode* root, int level, vector<int> &ans)
-    {
-        if(root == NULL) return;
-        if(ans.size() == level) ans.push_back(root->val);
-        recursion(root->right,level+1,ans);
-        recursion(root->left,level+1,ans);
+        
     }
 };
