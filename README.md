@@ -44,9 +44,14 @@
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0120-triangle) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3242-count-elements-with-maximum-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
