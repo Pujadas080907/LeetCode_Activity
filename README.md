@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Tree
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -54,4 +56,17 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
