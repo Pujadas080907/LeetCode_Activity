@@ -47,6 +47,7 @@
 | ------- |
 | [0120-triangle](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -69,4 +70,16 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
+## Math
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2324-find-triangular-sum-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
