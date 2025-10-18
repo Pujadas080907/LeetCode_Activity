@@ -34,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0268-missing-number) |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
