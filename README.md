@@ -54,6 +54,7 @@
 | [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
@@ -85,6 +86,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
@@ -103,6 +105,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0075-sort-colors) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
