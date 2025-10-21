@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
