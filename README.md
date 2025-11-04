@@ -8,6 +8,7 @@
 | [0268-missing-number](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Tree
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Counting
 |  |
 | ------- |
@@ -112,4 +114,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
