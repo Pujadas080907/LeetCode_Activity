@@ -7,6 +7,7 @@
 | [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Tree
@@ -63,6 +64,7 @@
 ## Counting
 |  |
 | ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0139-word-break) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Trie
 |  |
 | ------- |
