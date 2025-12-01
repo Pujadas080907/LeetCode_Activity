@@ -87,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/0268-missing-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Pujadas080907/LeetCode_Activity/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
